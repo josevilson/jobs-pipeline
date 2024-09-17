@@ -2,13 +2,18 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from time import sleep
+from random import randrange
 
 def extract_job_info(job_card):
     title = job_card.find('h3', class_='base-search-card__title').text.strip()
     company = job_card.find('h4', class_='base-search-card__subtitle').text.strip()
     location = job_card.find('span', class_='job-search-card__location').text.strip()
-    date_posted = job_card.find('time', class_='job-search-card__listdate').text.strip()
     
+    try:
+        date_posted = job_card.find('time', class_='job-search-card__listdate').text.strip()
+    except AttributeError:
+        date_posted = None
+
     try:
         early_applicant = job_card.find('span', class_='job-posting-benefits__text').text.strip()
     except AttributeError:
@@ -27,10 +32,20 @@ def extract_job_info(job_card):
     }
 
 # Definir parâmetros gerais
+
 base_url = "https://www.linkedin.com/jobs/search/"
+base_url2 = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Engenheiro%20De%20Dados&location=S%C3%A3o%20Paulo%2C%20S%C3%A3o%20Paulo%2C%20Brasil&geoId=104746682&distance=25&f_TPR=r2592000&position=1&pageNum=0&start=150"
+
 params = {
+    'geoId': '104746682',
     'keywords': 'engenheiro de dados',
-    'start': 0  # Esse valor será incrementado no loop
+    'start': 0,  # Esse valor será incrementado no loop
+    'origin': 'JOB_SEARCH_PAGE_LOCATION_AUTOCOMPLETE',
+    'refresh': 'true',
+    'f_TPR': 'r518400',
+    'position': 1,
+    'pageNum': 0
+
 }
 
 # Cabeçalho da requisição
@@ -46,18 +61,23 @@ num_pages = 1  # Você pode ajustar esse valor conforme necessário
 
 # Loop para percorrer as páginas
 for page in range(num_pages):
-    sleep(10)
-    print('espere! 3 segs')
+    qtd_sec = randrange(60, 180)
+    print(f'espere! {qtd_sec} segs')
     # Atualizar o valor de 'start' para cada página (cada página tem 25 resultados)
-    params['start'] = page * 13
+    params['start'] = page * 25
+    current_page = params['start']
+
+    print(f'Pagina: {current_page}')
     
     # Fazer a requisição HTTP
     response = requests.get(base_url, headers=headers, params=params)
+    # sleep(qtd_sec)
     
     # Verificar se a requisição foi bem-sucedida
     if response.status_code == 200:
         # Obter o conteúdo HTML
         html_content = response.text
+        print(html_content)
         
         # Criar um objeto BeautifulSoup
         soup = BeautifulSoup(html_content, 'html.parser')
