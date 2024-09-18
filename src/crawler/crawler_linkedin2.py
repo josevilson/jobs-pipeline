@@ -1,8 +1,8 @@
 import json
 import time
-
 import requests
 from bs4 import BeautifulSoup
+from random import randrange
 
 
 def extract_html(url, params, headers):
@@ -40,8 +40,7 @@ def parse_job_cards(html_content):
         time_element = card.find('time', class_='job-search-card__listdate')
         time_posted = time_element.text.strip() if time_element else "Tempo não encontrado"
 
-        job_link = card.find(
-            'a', class_='base-card__full-link')['href'].strip()
+        job_link = card.find('a', class_='base-card__full-link')['href'].strip()
 
         job = {
             "titulo": title,
@@ -67,27 +66,44 @@ def save_to_json(data, filename='vagas.json'):
 def main():
     base_url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search/"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
     }
     params = {
         'keywords': 'Engenheiro De Dados',
         'location': 'São Paulo, São Paulo, Brasil',
-        'geoId': 104746682,  # Esse valor será incrementado no loop
+        'geoId': 104746682,
         'distance': 25,
         'refresh': 'true',
         'f_TPR': 'r2592000',
         'position': 1,
         'pageNum': 0,
-        'start': 0
+        'start': 1  # Parâmetro que indica o início da página
     }
 
-    html_content = extract_html(base_url, params, headers)
-    if html_content:
-        jobs = parse_job_cards(html_content)
-        save_to_json(jobs)
-        print(f"Foram extraídas {len(jobs)} vagas e salvas em 'vagas.json'")
-    else:
-        print("Não foi possível obter o conteúdo HTML.")
+    all_jobs = []
+    total_pages = 10  # Definindo o limite de páginas a serem buscadas
+    results_per_page = 10  # Número de resultados por página (pode variar)
+
+    for page in range(total_pages):
+        print(f"Extraindo dados da página {page + 1}...")
+        params['start'] = page * results_per_page  # Atualiza o valor de início da próxima página
+        html_content = extract_html(base_url, params, headers)
+
+        if html_content:
+            jobs = parse_job_cards(html_content)
+            if not jobs:  # Se não houver mais vagas, encerra o loop
+                print("Nenhuma vaga encontrada na página. Finalizando o scraping.")
+                break
+            all_jobs.extend(jobs)
+            qtd_sec = randrange(60,180)
+            time.sleep(qtd_sec)  # Pausa de 2 segundos entre as requisições para evitar sobrecarga
+            print(f'espere, qtd_sec {qtd_sec}')
+        else:
+            print(f"Erro ao buscar os dados da página {page + 1}. Tentando a próxima página.")
+            continue
+
+    save_to_json(all_jobs)
+    print(f"Foram extraídas {len(all_jobs)} vagas e salvas em 'vagas.json'.")
 
 
 if __name__ == "__main__":

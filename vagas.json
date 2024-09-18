@@ -1,72 +1,611 @@
 [
     {
+        "titulo": "Faça sua Carreira de Engenharia de Processos no Itaú 🚀🧡",
+        "empresa": "Itaú Unibanco",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "4 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/fa%C3%A7a-sua-carreira-de-engenharia-de-processos-no-ita%C3%BA-%F0%9F%9A%80%F0%9F%A7%A1-at-ita%C3%BA-unibanco-4002177538?position=1&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=x6KdvaO%2B5zDXuctpqihPCA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "ANALISTA DE ENGENHARIA DE DADOS JUNIOR",
+        "empresa": "Cielo",
+        "local": "Barueri, São Paulo, Brazil",
+        "tempo": "4 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/analista-de-engenharia-de-dados-junior-at-cielo-4006605112?position=2&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=%2FXfYCNepHPTvszyt64pSUw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Data Engineer Junior",
+        "empresa": "XP Inc.",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/data-engineer-junior-at-xp-inc-4009747924?position=3&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=mPc4acttCNRE6%2FchbG9cPg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de Dados",
+        "empresa": "XP Inc.",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-at-xp-inc-4004580789?position=4&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=p7BkdNEKpS5UKGCHl3h4Dw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de Dados\nSão Paulo - SP e Híbrido\nEfetivo",
+        "empresa": "CoE | Centro de Excelência Votorantim",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados%0As%C3%A3o-paulo-sp-e-h%C3%ADbrido%0Aefetivo-at-coe-centro-de-excel%C3%AAncia-votorantim-4008308906?position=5&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=vYwZr%2FoeMh42EbM5kCjm1g%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Pessoa Estagiária em Engenharia de Dados",
+        "empresa": "Youse Seguros",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-em-engenharia-de-dados-at-youse-seguros-4017993079?position=6&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=auYkUUL8%2FOGO2YNyYl8Igw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Júnior - Morumbi, SP",
+        "empresa": "Grupo Amil",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-j%C3%BAnior-morumbi-sp-at-grupo-amil-4021468440?position=7&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=dwEqOEAsaRbEto9DDroy4A%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "ENGENHEIRO DE DADOS ESPECIALISTA I",
+        "empresa": "PicPay",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "5 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-especialista-i-at-picpay-4025443110?position=8&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=chxEGuOBAnTwJwxVn6f2uQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "NORDICA",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "6 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-nordica-4022902610?position=9&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=HlSzZYXeVwldwDlo3uZvrA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Especialista - SP",
+        "empresa": "Verx Tecnologia e Inovação",
+        "local": "Greater São Paulo Area",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-especialista-sp-at-verx-tecnologia-e-inova%C3%A7%C3%A3o-4025711317?position=10&pageNum=0&refId=rfF6J2tbLrva9I88v64zMQ%3D%3D&trackingId=SM3jDXdO4zf9SloVswAmow%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Jr",
+        "empresa": "Genial Investimentos",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-jr-at-genial-investimentos-4027964565?position=1&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=yyXdKViRe%2FHawhfywU5L0A%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados SR",
+        "empresa": "Itaú Unibanco",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "6 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-ita%C3%BA-unibanco-3975232056?position=2&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=pfLDfCwwyrwsJNuBveKHJw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Analista de Engenharia de Dados",
+        "empresa": "Nestlé",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/analista-de-engenharia-de-dados-at-nestl%C3%A9-4019443777?position=3&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=JmDfvj%2B5WpVuqTPNw32XoQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenharia de Analytics",
+        "empresa": "Itaú Unibanco",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenharia-de-analytics-at-ita%C3%BA-unibanco-4022128169?position=4&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=yvjdmH0FsWL19QH1H%2B43Mg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de Dados",
+        "empresa": "CoE | Centro de Excelência Votorantim",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-at-coe-centro-de-excel%C3%AAncia-votorantim-4008067878?position=5&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=RPB39N197hi7u8NjOKKYLQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de Dados Sênior\nSão Paulo - SP\nEfetivo",
+        "empresa": "Gabriel",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-s%C3%AAnior%0As%C3%A3o-paulo-sp%0Aefetivo-at-gabriel-4016330932?position=6&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=YZFF32cBcg2fHVUtbIDSwA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "ANBIMA",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-anbima-3917117543?position=7&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=vHcBn4SD8Wz9t2RsH2MGow%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro Eletricista\nSão Paulo - SP\nEfetivo",
+        "empresa": "Comerc Energia",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-eletricista%0As%C3%A3o-paulo-sp%0Aefetivo-at-comerc-energia-4017219776?position=8&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=uugPdnRbbgR3CFfF1RwBdA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "ENGENHEIRO DE PRODUÇÃO - SP\nSão Paulo - SP\nEfetivo",
+        "empresa": "Thumbgrid",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-produ%C3%A7%C3%A3o-sp%0As%C3%A3o-paulo-sp%0Aefetivo-at-thumbgrid-4013717423?position=9&pageNum=1&refId=RcE7ysDJXptmMoh2IQPHoA%3D%3D&trackingId=uLXji4BrinEvZQvjXSYFmA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Junior",
+        "empresa": "Suhai Seguradora",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-junior-at-suhai-seguradora-4025764467?position=1&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=1pdVjZiyE2neStyBdTCvGQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "NORDICA",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "6 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-nordica-4022902610?position=2&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=LdwF6MeVp%2FLqgu%2FEEwqG9w%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Especialista em Engenharia de Dados - (Vaga afirmativa para Mulheres)",
+        "empresa": "Banco PAN",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/especialista-em-engenharia-de-dados-vaga-afirmativa-para-mulheres-at-banco-pan-4013705338?position=3&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=A%2FK7uqZzhY%2Bgy4EelCAOxA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados PL",
+        "empresa": "Alpargatas S.A.",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pl-at-alpargatas-s-a-4014746345?position=4&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=JIZwsoTRpPM5K5ZJl0TM%2BQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados - TI\nSão Paulo - SP e Híbrido\nEfetivo",
+        "empresa": "Editora do Brasil",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-ti%0As%C3%A3o-paulo-sp-e-h%C3%ADbrido%0Aefetivo-at-editora-do-brasil-4028304796?position=5&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=SGTCETZj9e53ssIbESChsA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Auxiliar Administrativo II  - UBS Engenheiro Trindade - SAS",
+        "empresa": "Seconci-SP - Serviço Social da Construção Civil do Estado de São Paulo",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-ii-ubs-engenheiro-trindade-sas-at-seconci-sp-servi%C3%A7o-social-da-constru%C3%A7%C3%A3o-civil-do-estado-de-s%C3%A3o-paulo-4008037076?position=6&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=b3rFnFKpKoxkgYi21BEx4Q%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Pleno",
+        "empresa": "Distrito",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pleno-at-distrito-4012164698?position=7&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=ik3pglyVgE%2BgCg7pTNoP5A%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Redes PL\nSão Paulo - SP\nEfetivo",
+        "empresa": "Stefanini Brasil",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "5 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-redes-pl%0As%C3%A3o-paulo-sp%0Aefetivo-at-stefanini-brasil-4025630003?position=8&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=fuArR2YAqu%2BQuwWeGvAk9A%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados - Júnior",
+        "empresa": "Solutis Tecnologias",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-j%C3%BAnior-at-solutis-tecnologias-4020125687?position=9&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=Sdgx3FaMuZKp3Y5SvrT9%2BA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de dados | Dados",
+        "empresa": "BTG Pactual",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-dados-at-btg-pactual-3884048890?position=10&pageNum=2&refId=zd3kj7%2FH%2FgKH1NSrbra9og%3D%3D&trackingId=sFHK%2FPPBPY4lelG7FmL6BA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados - Supply Chain",
+        "empresa": "Amaris Consulting",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "5 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-supply-chain-at-amaris-consulting-4023115055?position=1&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=qa3lPDJdnu3Ro8YDV23%2Ftw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro De Dados",
+        "empresa": "Techrx Recruiting",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-techrx-recruiting-4013773978?position=2&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=XhMwkzo8BWEAiwJ%2FCexYgA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "FOURSYS",
+        "local": "Greater São Paulo Area",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-foursys-4012989957?position=3&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=B2LQjy8GakLpdLqCFgtXZA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Orçamentos",
+        "empresa": "Ambipar",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-or%C3%A7amentos-at-ambipar-4025734926?position=4&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=BWYoNMbq6s9ZcXmG%2FrAHsQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "FOURSYS",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-foursys-4006436853?position=5&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=dPsHym7FQtQB2igC2%2BNkKA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr",
+        "empresa": "Addvisor Group",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-addvisor-group-4024872040?position=6&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=m7yjkvyL2hPJgFOaxRwWBw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr",
+        "empresa": "Núclea",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-n%C3%BAclea-4025765190?position=7&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=7uAu2mZo6GeqCjGbRsxYxg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "Netvagas",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-netvagas-4027060943?position=8&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=BjG4qBOgllIbYbRs9iUkjA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro De Dados (Cortex) - Júnior/Pleno",
+        "empresa": "Runtalent",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-cortex-j%C3%BAnior-pleno-at-runtalent-4008827728?position=9&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=8HQqGrAJWV8Uydyd3DIipg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de dados",
+        "empresa": "FOURSYS",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-at-foursys-4011512208?position=10&pageNum=3&refId=HTOzMAhPvBwiiVqVtAq4%2FA%3D%3D&trackingId=FBnL7y9O0hjpJPO8B8h%2Fsg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr",
+        "empresa": "Addvisor Group",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-addvisor-group-4024872040?position=1&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=sNqiKYus%2FkImTIoAyLupHQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr",
+        "empresa": "Núclea",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-n%C3%BAclea-4025765190?position=2&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=67tm38B9Zz%2FZ54zgPki7PQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "Netvagas",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-netvagas-4027060943?position=3&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=1CqpmzD1isXlITJhbLl8qA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro De Dados (Cortex) - Júnior/Pleno",
+        "empresa": "Runtalent",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-cortex-j%C3%BAnior-pleno-at-runtalent-4008827728?position=4&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=USnm8%2Fr9Er3t4NVZR7AKJA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de dados",
+        "empresa": "FOURSYS",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-at-foursys-4011512208?position=5&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=iY2zsRyyNYGsNCPZdWUtAw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados - TI",
+        "empresa": "Editora do Brasil",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 day ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-ti-at-editora-do-brasil-4026268086?position=6&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=W%2Bvu69afP50ho6vXg%2F59Yg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Especialista de Engenharia de Dados I",
+        "empresa": "Serasa Experian",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/especialista-de-engenharia-de-dados-i-at-serasa-experian-4019466604?position=7&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=ThnVFYZGeLfqRW3VSrkSIg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr.",
+        "empresa": "PagBank",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-pagbank-3832741632?position=8&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=nDsC5Jki0eOrelH8bIkd9g%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados\nSão Paulo - SP e Híbrido\nPessoa jurídica",
+        "empresa": "Credimorar",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados%0As%C3%A3o-paulo-sp-e-h%C3%ADbrido%0Apessoa-jur%C3%ADdica-at-credimorar-4007859348?position=9&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=GSnJsgys21COWBqZpxwlLw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Especialista de Engenharia I | Norte/Nordeste e/ou Centro-Oeste",
+        "empresa": "Aegea Saneamento",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/especialista-de-engenharia-i-norte-nordeste-e-ou-centro-oeste-at-aegea-saneamento-4002119326?position=10&pageNum=4&refId=IwSGo6DozJXSz0w675ofQw%3D%3D&trackingId=YkpGUGJJNkGXe2xXsdtOvQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
         "titulo": "Engenharia de Analytics Senior",
         "empresa": "Itaú Unibanco",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "1 week ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenharia-de-analytics-senior-at-ita%C3%BA-unibanco-4017585578?position=1&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=6QQ3GRsf%2BONSqgMu%2Fhwqhw%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenharia-de-analytics-senior-at-ita%C3%BA-unibanco-4017585578?position=1&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=IXwYuU36hymUTU%2BwNERsuQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados SR",
+        "empresa": "Algar",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-algar-4017211871?position=2&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=U4V5d21VwT3ucCCoHXe2CA%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
         "titulo": "Engenheiro(a) de Gestão de Energia",
         "empresa": "V.tal",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "2 weeks ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-gest%C3%A3o-de-energia-at-v-tal-3894540862?position=2&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=YvtSbjGVm18ZyDrEowE4%2Bw%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-gest%C3%A3o-de-energia-at-v-tal-3894540862?position=3&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=k3xQQHM7vgYR7zDh0bS9WQ%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
         "titulo": "Auxiliar administrativo II - UBS Engenheiro Trindade - Temporário - SAS",
         "empresa": "Seconci-SP - Serviço Social da Construção Civil do Estado de São Paulo",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "1 week ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-ii-ubs-engenheiro-trindade-tempor%C3%A1rio-sas-at-seconci-sp-servi%C3%A7o-social-da-constru%C3%A7%C3%A3o-civil-do-estado-de-s%C3%A3o-paulo-4018482551?position=3&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=Xw6pUeA5cOnF%2BryxV%2Fkf3A%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-ii-ubs-engenheiro-trindade-tempor%C3%A1rio-sas-at-seconci-sp-servi%C3%A7o-social-da-constru%C3%A7%C3%A3o-civil-do-estado-de-s%C3%A3o-paulo-4018482551?position=4&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=ho9tjf3s5G1%2BWM2oGWdd1g%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
         "titulo": "Engenheiro (a) de dados - Databricks (vaga Remota)",
         "empresa": "TQI",
         "local": "São Paulo, São Paulo, Brazil",
-        "tempo": "Tempo não encontrado",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-databricks-vaga-remota-at-tqi-4026283341?position=4&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=%2BRZ35uUazvG%2FcCFUq5MieA%3D%3D&trk=public_jobs_jserp-result_search-card"
-    },
-    {
-        "titulo": "Visagio Talentos - Estágio: Engenheiro(a) de Dados SP\nSão Paulo - SP e Híbrido\nEstágio",
-        "empresa": "v(dev)",
-        "local": "Greater São Paulo Area",
-        "tempo": "6 days ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/visagio-talentos-est%C3%A1gio-engenheiro-a-de-dados-sp%0As%C3%A3o-paulo-sp-e-h%C3%ADbrido%0Aest%C3%A1gio-at-v-dev-4023012949?position=5&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=tMebQw%2Fnj5Hugg32L8sTVw%3D%3D&trk=public_jobs_jserp-result_search-card"
-    },
-    {
-        "titulo": "Engenheiro de Dados Sr - SP",
-        "empresa": "Logical Minds",
-        "local": "Greater São Paulo Area",
         "tempo": "1 day ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-sp-at-logical-minds-4025701941?position=6&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=hWd2%2Fb%2B9hBuymhK1Q4xJSA%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-databricks-vaga-remota-at-tqi-4026283341?position=5&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=Fd6CZMcrtGM6K0i5tzWZxA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "Capitani Group",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-capitani-group-4026578377?position=6&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=IdROzG%2B8S3IaFnwZxj8prQ%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
         "titulo": "Engenheiro de Analytics SR 🧡🚀",
         "empresa": "Itaú Unibanco",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "2 weeks ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-analytics-sr-%F0%9F%A7%A1%F0%9F%9A%80-at-ita%C3%BA-unibanco-4011293751?position=7&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=QnR0eE0q6Ayg1SfeK9CQrw%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-analytics-sr-%F0%9F%A7%A1%F0%9F%9A%80-at-ita%C3%BA-unibanco-4011293751?position=7&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=g4dsYBzSDdA9CHwswRpXLg%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
-        "titulo": "Engenheiro de Dados",
-        "empresa": "Credimorar",
-        "local": "São Paulo, São Paulo, Brazil",
-        "tempo": "3 weeks ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-credimorar-4006008648?position=8&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=ci96ZTxZgOyoVxSeAut6CA%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "titulo": "Visagio Talentos - Estágio: Engenheiro(a) de Dados SP\nSão Paulo - SP e Híbrido\nEstágio",
+        "empresa": "v(dev)",
+        "local": "Greater São Paulo Area",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/visagio-talentos-est%C3%A1gio-engenheiro-a-de-dados-sp%0As%C3%A3o-paulo-sp-e-h%C3%ADbrido%0Aest%C3%A1gio-at-v-dev-4023012949?position=8&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=NbBoZbQ94cb0uC9KJSGlgQ%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
         "titulo": "ENGENHEIRO DADOS",
         "empresa": "Minsait",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "3 weeks ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-dados-at-minsait-4006281837?position=9&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=GYT%2BsZOcWptUiqTz44Batw%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-dados-at-minsait-4006281837?position=9&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=pOyP1arMDkT7qRx27txv9Q%3D%3D&trk=public_jobs_jserp-result_search-card"
     },
     {
-        "titulo": "Especialista em Análise e Engenharia de Dados",
-        "empresa": "Beontag",
+        "titulo": "Engenheiro de Dados",
+        "empresa": "Credimorar",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-credimorar-4006008648?position=10&pageNum=5&refId=NOllS9lGoEWgv5%2B990cSwQ%3D%3D&trackingId=0YRlmB%2FE12cyMmwEspI9qg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "Capitani Group",
+        "local": "Greater São Paulo Area",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-capitani-group-4027194978?position=2&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=zgwx4h9pqV6wHF%2FTRXkZXA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Pleno",
+        "empresa": "Donnes",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pleno-at-donnes-4018870328?position=3&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=2Ve07WZ2fSZXLldwZKgiOQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "FOURSYS",
+        "local": "Greater São Paulo Area",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-foursys-4012854487?position=4&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=XFXDdnddyi0wVDIC6nuGSg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Auxiliar Administrativio II - UBS Engenheiro Trindade - SAS",
+        "empresa": "Seconci-SP - Serviço Social da Construção Civil do Estado de São Paulo",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/auxiliar-administrativio-ii-ubs-engenheiro-trindade-sas-at-seconci-sp-servi%C3%A7o-social-da-constru%C3%A7%C3%A3o-civil-do-estado-de-s%C3%A3o-paulo-4008033844?position=5&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=p6RNarKkruaxq4Kzr07H%2Bw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "Up.p",
         "local": "São Paulo, São Paulo, Brazil",
         "tempo": "2 weeks ago",
-        "link_vaga": "https://br.linkedin.com/jobs/view/especialista-em-an%C3%A1lise-e-engenharia-de-dados-at-beontag-3995442797?position=10&pageNum=5&refId=Kk5RNI0zkKtwDjkFtuZFeQ%3D%3D&trackingId=onktcRs5267B%2BTmjls3fMw%3D%3D&trk=public_jobs_jserp-result_search-card"
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-up-p-4010892429?position=6&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=Ni9w7s4U8h4zpei%2B77L%2Bbw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro  de  Dados",
+        "empresa": "TOPMIND",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "4 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-topmind-4005211958?position=7&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=zFB26aYj%2Bo1WeijG%2B6AcIg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro (a) de Software SAP",
+        "empresa": "XP Inc.",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-software-sap-at-xp-inc-3940835418?position=8&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=thanuGqrLMDcVuJ326iInA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sênior",
+        "empresa": "Serasa Experian",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-s%C3%AAnior-at-serasa-experian-3963204563?position=9&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=Xcf5Tj%2BTEcEm05S35qz5vA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Estágio em Engenharia de Dados - Vaga afirmativa para pessoas negras",
+        "empresa": "Artefact",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-engenharia-de-dados-vaga-afirmativa-para-pessoas-negras-at-artefact-4028864088?position=10&pageNum=6&refId=NcqePQq6jLJ8RLdTU2nvLw%3D%3D&trackingId=jFI%2Bygqpcazslz8E2wvv6A%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados sr",
+        "empresa": "Netvagas",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "3 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-netvagas-4024589791?position=1&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=LbC4D0nJKxSQVlTc9R9BNQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sênior",
+        "empresa": "Serasa Experian",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-s%C3%AAnior-at-serasa-experian-3963204563?position=2&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=M31%2FSvrb7PKkqnoqofrfRA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Pricing Analytics | Engenheiro de Dados – Pleno\nBarueri - SP\nEfetivo",
+        "empresa": "Cielo",
+        "local": "Barueri, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/pricing-analytics-engenheiro-de-dados-%E2%80%93-pleno%0Abarueri-sp%0Aefetivo-at-cielo-4022386363?position=3&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=%2Bug2JY2b82kALUu16BSAUw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Estágio em Engenharia de Dados - Vaga afirmativa para pessoas negras",
+        "empresa": "Artefact",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-engenharia-de-dados-vaga-afirmativa-para-pessoas-negras-at-artefact-4028864088?position=4&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=RsnEv7uZHkT54DsBNwR4RA%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sênior",
+        "empresa": "Meta",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-s%C3%AAnior-at-meta-4021153593?position=5&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=IeBbvcR2KmciSAOUFiU3dg%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "ENGENHEIRO DE DADOS SR",
+        "empresa": "NAVA - Technology for Business",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-nava-technology-for-business-4016378185?position=6&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=Sf1TTyheTQomyb94W95YZw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sênior (Remoto)",
+        "empresa": "Seekerh",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-s%C3%AAnior-remoto-at-seekerh-4018827981?position=7&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=JtX0r6tEKLdEQT%2F%2F2Ul4WQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "ENGENHEIRO MECÂNICO\nSão Paulo - SP\nEfetivo",
+        "empresa": "SPDM/PAIS - Programa de Atenção Integral à Saúde",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-mec%C3%A2nico%0As%C3%A3o-paulo-sp%0Aefetivo-at-spdm-pais-programa-de-aten%C3%A7%C3%A3o-integral-%C3%A0-sa%C3%BAde-4020872276?position=8&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=TcPcxkNER8QIgRXtZWa7mw%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro(a) de Dados Sênior",
+        "empresa": "Gabriel",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-a-de-dados-s%C3%AAnior-at-gabriel-4016376600?position=9&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=xoLE00KpRM3hnuIStA%2BLTQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados PL",
+        "empresa": "ESS Brasil",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pl-at-ess-brasil-4013005703?position=10&pageNum=7&refId=X7wGOEbWTukHxqn5a5sxEw%3D%3D&trackingId=C3Ev6PSFiOmP1DTqo8zgWQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Sr",
+        "empresa": "Addvisor Group",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-sr-at-addvisor-group-4024872040?position=1&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=gHy37RVXRz9RLvSZYIb4OQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Analista Data Science Pleno",
+        "empresa": "Cartão Elo",
+        "local": "Barueri, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/analista-data-science-pleno-at-cart%C3%A3o-elo-4012237331?position=2&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=VzPIx40LTwWhZqOVXGBk7Q%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Pleno",
+        "empresa": "Minsait",
+        "local": "Barueri, São Paulo, Brazil",
+        "tempo": "5 days ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pleno-at-minsait-4023240486?position=3&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=sVaa8exw3I7EEt0L8sGE7Q%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Visagio Talentos - Estágio: Engenheiro(a) de Dados SP",
+        "empresa": "v(dev)",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "1 week ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/visagio-talentos-est%C3%A1gio-engenheiro-a-de-dados-sp-at-v-dev-4021452715?position=5&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=RqtyB4ZuJ25auLvO3fyKTQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "Capitani Group",
+        "local": "Greater São Paulo Area",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-capitani-group-4027437397?position=6&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=upMRr9Lv%2BGTRAFm2B6hTow%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados Pleno/Sênior",
+        "empresa": "Mtrix",
+        "local": "São Paulo, São Paulo, Brazil",
+        "tempo": "2 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-pleno-s%C3%AAnior-at-mtrix-4014134238?position=7&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=YoV4BOL5tMUOmiTt%2B0V9LQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Consultant - Engenheiro de Dados - Híbrido",
+        "empresa": "Provider IT",
+        "local": "Greater São Paulo Area",
+        "tempo": "3 weeks ago",
+        "link_vaga": "https://br.linkedin.com/jobs/view/consultant-engenheiro-de-dados-h%C3%ADbrido-at-provider-it-4009479203?position=8&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=%2BGbTxQ%2BRIYGVcNNlWnaZ4Q%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de dados",
+        "empresa": "Capitani Group",
+        "local": "Greater São Paulo Area",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-capitani-group-4027402250?position=9&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=K2%2F%2BJAoZyG2woz4Z7xSPxQ%3D%3D&trk=public_jobs_jserp-result_search-card"
+    },
+    {
+        "titulo": "Engenheiro de Dados",
+        "empresa": "Capitani Group",
+        "local": "Greater São Paulo Area",
+        "tempo": "Tempo não encontrado",
+        "link_vaga": "https://br.linkedin.com/jobs/view/engenheiro-de-dados-at-capitani-group-4027199285?position=10&pageNum=8&refId=RuIgvPiZcHyJ2ULfnJaRcg%3D%3D&trackingId=7yzGGM%2Bmr%2FRGlOrZ6BI9DQ%3D%3D&trk=public_jobs_jserp-result_search-card"
     }
 ]
